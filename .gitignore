@@ -1,0 +1,20 @@
+# Rahasia: jangan pernah di-commit
+.env
+sql/02_setup.sql
+.streamlit/secrets.toml
+
+# Hasil otomatis (berisi pertanyaan, jawaban, dan hasil query)
+logs/
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

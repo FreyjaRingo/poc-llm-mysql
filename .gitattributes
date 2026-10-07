@@ -1,0 +1,4 @@
+# Samakan akhir baris di Windows dan Mac/Linux supaya diff tidak penuh perubahan palsu
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
